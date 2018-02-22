@@ -1,2 +1,7 @@
 # Soham-s-Sexist-App
 My name is Soham and I am not sexist, but my app definitely is....
+
+
+
+# To get the preprocessed training set
+Create a pull request.
