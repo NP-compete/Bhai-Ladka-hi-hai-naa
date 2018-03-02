@@ -1,4 +1,4 @@
-# Soham-s-Sexist-App
+# Ladka ya Ladki
 My name is Soham and I am not sexist, but my app definitely is....
 
 
