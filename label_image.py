@@ -4,7 +4,7 @@ import tensorflow as tf
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
-# change this as you see fit
+# change this as you see better
 image_path = sys.argv[1]
 
 # Read in the image_data
