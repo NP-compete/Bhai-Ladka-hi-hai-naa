@@ -11,3 +11,7 @@ git clone https://github.com/NP-compete/Bhai-Ladka-hi-hai-naa
 ```
 python label_image.py
 ```
+### todo:
+- [x] Created a python App
+- [ ] Convert it to a API
+- [ ] Use it in a web service
